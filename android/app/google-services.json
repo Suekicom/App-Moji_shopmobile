@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779727662331",
+    "project_id": "appmojimb",
+    "storage_bucket": "appmojimb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779727662331:android:247a11bb157e1d15f9145e",
+        "android_client_info": {
+          "package_name": "com.example.moji_appmb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779727662331-nltkauh800t9ehcq5cgc3n4fs81f63h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCDeJzTYwvNshqKZWAD9G9vA54Ue5V9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779727662331-nltkauh800t9ehcq5cgc3n4fs81f63h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
